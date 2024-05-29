@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stacks
 - **Programming Languages:** Python, Java, C++, JavaScript, HTML/CSS, PineScript, C
 - **Frameworks:** React, Flask, GlassFish, SASS
-- **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Selenium, Scikit-Learn, BeautifulSoup, Cohere, Firebase, SQLite
+- **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Selenium, Scikit-Learn, BeautifulSoup, Cohere, Firebase, SQLite, OpenCV
 - **Developer Tools:** GitHub, Visual Studio Code, PyCharm, IntelliJ, Unreal Engine 4/5
 - **Platforms:** Firebase, Discord WebHooks
 
