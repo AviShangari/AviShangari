@@ -6,6 +6,13 @@
 
 📚 I have a strong foundation in data structures, algorithms, and systems programming, with practical experience in Python, Java, and C++. I also work with frameworks and libraries like React, Flask, TensorFlow, and PyTorch.
 
+### 🛠️ Tech Stacks
+- **Programming Languages:** Python, Java, C++, JavaScript, HTML/CSS, PineScript, C
+- **Frameworks:** React, Flask, GlassFish, SASS
+- **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Selenium, Scikit-Learn, BeautifulSoup, Cohere, Firebase, SQLite
+- **Developer Tools:** GitHub, Visual Studio Code, PyCharm, IntelliJ, Unreal Engine 4/5
+- **Platforms:** Firebase, Discord WebHooks
+
 🌟 Highlight Project: **Notes.AI**, an AI-powered note-taking mobile application that uses NLP techniques to organize and summarize notes, enhancing user experience across multiple devices.
 
 🔍 Another notable project is **Forex Trading Bot**, a sophisticated tool that autonomously analyzes forex markets and executes trades based on advanced algorithmic strategies, demonstrating my interest in combining finance with technology.
