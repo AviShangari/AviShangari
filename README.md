@@ -45,4 +45,5 @@
 
 I'm always eager to explore new ideas and collaborate on innovative projects. Whether it's pushing the boundaries of AI, building robust software, or automating tasks, I’d love to hear from you!
 
-Feel free to [connect with me on LinkedIn](https://linkedin.com/in/aaveg-shangari) or reach out via [email](mailto:shangariaaveg@gmail.com). Let's chat about ideas or how I can contribute to your team!
+Feel free to [connect with me on LinkedIn](https://linkedin.com/in/aaveg-shangari) or reach out via email: shangariaaveg@gmail.com
+Let's chat about ideas or how I can contribute to your team!
