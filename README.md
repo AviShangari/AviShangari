@@ -25,11 +25,11 @@
 - Developing a custom **Computer Vision model** to identify **C. elegans** and analyze their movements for behavioral research.
 - Creating and curating a dataset from scratch to ensure accurate training and testing for movement analysis.
 
-### [**Notes.AI – AI-Powered Note-taking App**]([link-to-project](https://github.com/AviShangari/Kanjou))  
+### [**Notes.AI – AI-Powered Note-taking App**](https://github.com/AviShangari/Kanjou)  
 **Flutter, Dart, Cohere, Firebase**  
 - Built a mobile application for AI-powered note organization and summarization using **NLP models** and **Cohere** for intelligent text generation.
 
-### [**Bug Tracker – Full-Stack Web Application**]([link-to-project](https://github.com/AviShangari/BugTracker))  
+### [**Bug Tracker – Full-Stack Web Application**](https://github.com/AviShangari/BugTracker)  
 **Python, React, Flask**  
 - Designed a full-stack bug-tracking system with a **Python-Flask backend** and a **React frontend**, using **Material UI** for a clean, user-friendly interface.
 
