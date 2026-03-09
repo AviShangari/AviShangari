@@ -1,6 +1,6 @@
 # Hi, I'm Aaveg Shangari
 
-CS graduate from Ontario Tech (3.89 GPA, Distinction) with a focus on backend engineering, ML systems, and computer vision. I like building tools that solve real problems — my most recent project is a deployed financial intelligence platform that parses real Canadian bank statements using ML.
+CS graduate from Ontario Tech (3.89 GPA, Distinction) with a focus on backend engineering, ML systems, and computer vision. I like building tools that solve real problems. My most recent project is a deployed financial intelligence platform that parses real Canadian bank statements using ML.
 
 ## What I'm Working On
 
