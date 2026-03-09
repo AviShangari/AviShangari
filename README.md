@@ -1,50 +1,39 @@
-# Hello, I'm Aaveg Shangari! 👋
+# Hi, I'm Aaveg Shangari
 
-🎓 I'm currently pursuing a **Bachelor of Arts in Computer Science** at the **University of Ontario Institute of Technology**, where I maintain a **3.85 GPA** and have been consistently recognized on the **President's List**.
+CS graduate from Ontario Tech (3.89 GPA, Distinction) with a focus on backend engineering, ML systems, and computer vision. I like building tools that solve real problems — my most recent project is a deployed financial intelligence platform that parses real Canadian bank statements using ML.
 
-💡 I’m passionate about **Artificial Intelligence, Machine Learning**, and **Software Development**. My expertise spans from developing **AI models**—such as a **C. elegans identification system** for biological research—to creating dynamic **full-stack web applications** for bug tracking.
+## What I'm Working On
 
-👨‍🏫 I have a strong foundation in **Data Structures**, **Algorithms**, and **Systems Programming**, with practical experience in **Python**, **Java**, and **C++**. Additionally, I work extensively with **AI/ML libraries** and **frameworks** like **PyTorch**, **TensorFlow**, **React**, and **Flask**.
+### [Savvant](https://savvant.ca) — Behavioral Financial Intelligence Platform
+A full-stack platform that transforms bank and credit card statements into personalized spending intelligence. No bank linking required — just upload a PDF.
 
----
+**What's under the hood:**
+- Categorization priority chain: manual overrides → LightGBM + TF-IDF (>70% confidence gate) → rule-based fallback
+- Hallucination-resistant chatbot: LLM intent classification → Python calculation engine → LLM response formatting
+- 16 behavioral spending tags with confidence scoring and adaptive thresholds
+- Isolation Forest anomaly detection with per-category feature engineering
+- Modular parser registry supporting TD, RBC, and Visa statement formats
 
-## ⚙️ Tech Stack
+**Built with:** FastAPI · PostgreSQL · React · Scikit-learn · LightGBM · Docker
 
-- **Programming Languages**: Python, Java, C++, JavaScript, HTML/CSS, PineScript, C
-- **Frameworks**: React, Flask, TensorFlow, PyTorch, GlassFish
-- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-Learn, OpenCV, BeautifulSoup, Cohere, Firebase, SQLite
-- **Developer Tools**: GitHub, VS Code, PyCharm, IntelliJ, Unreal Engine 4/5
-- **Platforms**: Firebase, Discord WebHooks
-
----
-
-## 🚀 Highlight Projects
-
-### [**Undergraduate Honors Thesis – C. elegans Identification and Movement Analysis**](link-to-project)  
-**Python, PyTorch, OpenCV, Data Management**  
-- Developing a custom **Computer Vision model** to identify **C. elegans** and analyze their movements for behavioral research.
-- Creating and curating a dataset from scratch to ensure accurate training and testing for movement analysis.
-
-### [**Notes.AI – AI-Powered Note-taking App**](https://github.com/AviShangari/Kanjou)  
-**Flutter, Dart, Cohere, Firebase**  
-- Built a mobile application for AI-powered note organization and summarization using **NLP models** and **Cohere** for intelligent text generation.
-
-### [**Bug Tracker – Full-Stack Web Application**](https://github.com/AviShangari/BugTracker)  
-**Python, React, Flask**  
-- Designed a full-stack bug-tracking system with a **Python-Flask backend** and a **React frontend**, using **Material UI** for a clean, user-friendly interface.
+🔗 **[Try it live →](https://savvant.ca)**
 
 ---
 
-## 💡 More Notable Projects
-- **BravoBot (Voice Assistant)**: Automated daily tasks and queries using **TensorFlow** and **Selenium**, integrating **OpenAPI** for general knowledge responses.
-- **Forex Trading Bot**: Developed an algorithmic trading bot using **PineScript**, executing autonomous buy/sell trades with a self-devised strategy.
+### Other Projects
 
----
+**Worm Tracking Thesis** — Novel multi-object tracking pipeline for microscopic organisms using skeletonization + Hungarian Algorithm. Built as a Research Assistant at Ontario Tech's Visual Computing Lab. Includes a FastAPI + React delivery system for non-technical researchers.
 
-## 🤝 Let’s Collaborate!
+**BravoBot** — Offline voice assistant integrating Whisper (STT), fine-tuned DistilBERT (intent classification), and Llama 3.2 (response generation). Designed for privacy-first, local-only inference.
 
-I'm always eager to explore new ideas and collaborate on innovative projects. Whether it's pushing the boundaries of AI, building robust software, or automating tasks, I’d love to hear from you!
+## Tech I Work With
 
-Feel free to [connect with me on LinkedIn](https://linkedin.com/in/aaveg-shangari) or reach out via email: shangariaaveg@gmail.com
+**Languages:** Python, Java, C++, JavaScript, SQL, Bash  
+**Backend & Data:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker  
+**AI/ML:** Scikit-learn, PyTorch, TensorFlow, OpenCV, LightGBM, FAISS, SentenceTransformers  
+**Frontend:** React, Tailwind CSS
 
-Let's chat about ideas or how I can contribute to your team!
+## Let's Connect
+
+📧 shangariaaveg@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aaveg-shangari/) · [Portfolio](https://avishangari.github.io/aaveg-portfolio/)
