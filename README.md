@@ -16,7 +16,7 @@ webhooks, and learns how each user categorizes their own spending.
 
 **Engineering worth mentioning:**
 
-- **Deterministic chatbot.** GPT-4o-mini classifies intent and formats prose;
+- **Deterministic chatbot.** GPT-5.4-mini classifies intent and formats prose;
   a Python engine computes every figure. The model never does arithmetic on
   your money. Freeform questions go through a generated SELECT that is
   validated before execution: read-only, single-table, user-scoped as a bound
